@@ -1,0 +1,25 @@
+{
+  "name": "kidnet.js",
+  "version": "0.1.0",
+  "description": "A developer library for building bots on the KidNet platform, inspired by discord.js",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node testbot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stetup/kn.js.git"
+  },
+  "keywords": [
+    "kidnet",
+    "kidnet-bot",
+    "bot-framework",
+    "chat-api",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Jake (Stetup)",
+  "license": "MIT",
+  "dependencies": {}
+}
